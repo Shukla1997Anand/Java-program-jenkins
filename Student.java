@@ -1,5 +1,5 @@
 public class Student {
-    public void student() {
+    public  Student() {
         System.out.println("this is constructor");
     }
 
